@@ -1,5 +1,5 @@
 ---
-name: Tutorial PR
+name: Tutorial PR by Ronak Kotecha
 about: Making a Pull Request for the ZEIT Getting Started tutorial?
 
 ---
